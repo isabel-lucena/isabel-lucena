@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, seja bem-vindo ao meu github!
+class Isabel:
+    nome     = "Isabel Araújo de Lucena"
+    idade    = 18
+    cidade   = "Recife, PE"
+    curso    = "Ciência da Computação"
 
-<!--
-**isabel-lucena/isabel-lucena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    interesses = [
+        "cibersegurança",
+        "python",
+    ]
 
-Here are some ideas to get you started:
+    contato = {
+        "email"    : "isabel.lucena2007@gmail.com",
+        "linkedin" : "linkedin.com/in/isabelaraujodelucena",
+        "portfolio": "leledornas.github.io/meu-portfolio"
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def bio(self):
+        return "interesse em desenvolvimento web e soluções que conectam tecnologia com pessoas. :)"
