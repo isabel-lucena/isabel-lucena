@@ -6,7 +6,7 @@
 
     interesses = [
         "cibersegurança",
-        "python",
+        "python"
     ]
     ferramentas = [
         "HTML",
@@ -21,3 +21,7 @@
         "linkedin" : "linkedin.com/in/isabelaraujodelucena",
         "portfolio": "https://isabellucenaportfolio.vercel.app/"
     }
+    soft skills = [
+    "Trabalho em equipe",
+    "Solução de problemas"
+    ]
