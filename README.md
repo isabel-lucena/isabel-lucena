@@ -13,5 +13,5 @@ class Isabel:
     contato = {
         "email"    : "isabel.lucena2007@gmail.com",
         "linkedin" : "linkedin.com/in/isabelaraujodelucena",
-        "portfolio": "leledornas.github.io/meu-portfolio"
+        "portfolio": ""
     }
