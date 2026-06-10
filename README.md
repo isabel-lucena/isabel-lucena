@@ -15,6 +15,3 @@ class Isabel:
         "linkedin" : "linkedin.com/in/isabelaraujodelucena",
         "portfolio": "leledornas.github.io/meu-portfolio"
     }
-
-    def bio(self):
-        return "interesse em desenvolvimento web e soluções que conectam tecnologia com pessoas. :)"
