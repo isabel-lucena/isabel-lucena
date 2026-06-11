@@ -8,11 +8,13 @@
         "cibersegurança",
         "python"
     ]
-    ferramentas = [
+    ferramentas/linguagens = [
         "HTML",
         "CSS",
-        "Arduino<img width="150" height="150" alt="css3-original" src="https://github.com/user-attachments/assets/4c35dccf-37de-4e17-bd69-290d939886d1" />
-",
+        "Arduino",
+        "C",
+        "Python",
+        "JavaScript",
         "Git"
     ]
     contato = {
@@ -24,10 +26,6 @@
     "Solução de problemas",
     "Proatividade"
     ]
-## Linguagens e ferramentas
-
-<img width="80" height="80" alt="javascript-original" src="https://github.com/user-attachments/assets/e39ff456-4713-404b-b691-b0d60cfa4ae8" /><img width="8<img width="80" height="80" alt="python-original" src="https://github.com/user-attachments/assets/756d8888-2eb8-4b56-ae5e-53dc54f3e5bc" />
-0" height="80" alt="cplusplus-original" src="https://github.com/user-attachments/assets/666cbd9d-de24-471f-b3b3-1cf9d1413c86" />
 
 ## Meus projetos
 
