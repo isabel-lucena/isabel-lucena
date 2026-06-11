@@ -22,7 +22,8 @@
     }
     soft skills = [
     "Trabalho em equipe",
-    "Solução de problemas"
+    "Solução de problemas",
+    "Proatividade"
     ]
     
 ## Meus projetos
