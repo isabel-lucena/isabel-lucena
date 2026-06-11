@@ -35,6 +35,6 @@ Projeto Hyrox - Código para cadastro de treinos e competições, acompanhamento
 
 Arrudiando Recife - jogo em desenvolvimento que propõe a inclusão de pessoas surdas, as quais são o público alvo. Feito com arduino e microfone, a fala traz punições aos jogadores, fazendo com que gestos e mímica sejam os únicos meios de se comunicar.
 
-# Mais
+## Mais
 
 Isso e muito mais você encontra no meu portfólio: https://isabellucenaportfolio.vercel.app/
